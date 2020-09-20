@@ -1,2 +1,2 @@
-### greetings traveller 👋
-[![olliem5's github stats](https://github-readme-stats.vercel.app/api?username=olliem5)](https://github.com/anuraghazra/github-readme-stats)
+### skrrrrrt 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<olliem5>&theme=<THEME_NAME>" />
