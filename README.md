@@ -1,6 +1,7 @@
 ### olliem5
  ## current projects
  - Past (Java) - Utility Mod for Minecraft 1.12.2
+ - Phi (Java) - Utility Mod for Minecraft 1.12.2
  - Momentum (Java) - Utility Mod for Minecraft 1.12.2
  ## other
  - You can find me on Discord (ollie#0057)
