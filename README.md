@@ -1,9 +1,12 @@
 ### olliem5
- ## current projects
- - Past (Java) - Utility Mod for Minecraft 1.12.2
- - Phi (Java) - Utility Mod for Minecraft 1.12.2
- - Momentum (Java) - Utility Mod for Minecraft 1.12.2
- ## other
- - You can find me on Discord (ollie#0057)
- - If you would like me to help you with a project, I'm open!
+ ## Current Projects
+ ### Minecraft Clients
+ #### 1.12.2
+ * Ferox, Momentum, Past, Synapse, DownUnder
+ #### 1.8.8
+ * Lumen
+ ## For 2021
+ * Learn Python & JavaScript
+ ## Other
+ - Discord - ollie#0057
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=olliem5&theme=cobalt&count_private=true" />
