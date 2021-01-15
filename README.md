@@ -1,6 +1,9 @@
 ### olliem5
  ## Current Projects
-  * Ferox & Momentum
+  # Main
+   * Ferox
+  # Side
+   * Momentum
  ## For 2021
  * Learn Python & JavaScript
  ## Other
