@@ -3,7 +3,8 @@
 
 ### olliem5
  #### Current Projects
-  Ferox & Momentum
+  - Ferox
+  - Pace
   
  #### For 2021
  * Learn Python & JavaScript
