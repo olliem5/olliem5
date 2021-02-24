@@ -8,6 +8,6 @@
  
  #### Other
 - If you'd like to contact me, you can do so on discord (ollie#0057).
-- Please, don't annoy me with bullshit about the occurring drama.
+- Please, don't annoy me with bullshit about the ongoing drama.
  
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/?username=olliem5&theme=cobalt&count_private=true"/>
