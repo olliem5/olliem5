@@ -3,8 +3,8 @@
 
 ### olliem5
  #### Current Projects
-  - Ferox
-  - Pace
+  - Ferox (Minecraft 1.12.2 private client)
+  - ChainpopCore (The core plugin for my anarchy server, chainpop.cc)
  
  #### Other
 - If you'd like to contact me, you can do so on discord (ollie#0057).
