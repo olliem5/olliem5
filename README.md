@@ -3,7 +3,7 @@
 
 ### olliem5
  #### Current Projects
-  - Ferox (Minecraft 1.12.2 private client)
+  - Ferox (Minecraft 1.12.2 Private Client)
  
  #### Other
 - If you'd like to contact me, you can do so on my Discord, ollie#0057.
