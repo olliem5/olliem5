@@ -6,6 +6,6 @@
   - Ferox (Minecraft 1.12.2 private client)
  
  #### Other
-- If you'd like to contact me, you can do so on discord (ollie#0057).
+- If you'd like to contact me, you can do so on my Discord, ollie#0057.
  
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/?username=olliem5&theme=cobalt&count_private=true"/>
