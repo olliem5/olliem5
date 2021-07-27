@@ -6,6 +6,7 @@
 
 ### olliem5
  - I work on random projects in Java.
+ - *Working on something cool at the moment, more info to come...*
  
 ![Statistics Overview](https://raw.githubusercontent.com/olliem5/github-stats/master/generated/overview.svg) 
 ![Languages Overview](https://raw.githubusercontent.com/olliem5/github-stats/master/generated/languages.svg)
