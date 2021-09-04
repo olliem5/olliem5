@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=olliem5)
 
 ### olliem5
- - I work on random projects in Java & TypeScript.
+ - I work on random projects in Java.
 
 ![Discord](https://discord.c99.nl/widget/theme-1/413924242271371264.png)
 
