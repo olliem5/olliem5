@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=olliem5)
 
 ### olliem5
- - Java fan 😎
  - 11SDD & 11IPT student
  - Not really working on anything open-source at the moment, mainly focusing on school :/
 
